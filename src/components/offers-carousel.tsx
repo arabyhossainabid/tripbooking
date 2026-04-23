@@ -111,7 +111,7 @@ export default function OffersCarousel() {
           {ITEMS.map((item, idx) => (
             <div
               key={`${item.id}-${idx}`}
-              className="shrink-0 w-[85%] sm:w-1/2 lg:w-1/3 px-2 sm:px-3 snap-start"
+              className="shrink-0 w-full lg:w-[calc((100%-48px)/3)] px-0 lg:mr-6 lg:last:mr-0 snap-start"
             >
               <div className="relative h-64 rounded-3xl overflow-hidden shadow-md group/card">
                 <Image

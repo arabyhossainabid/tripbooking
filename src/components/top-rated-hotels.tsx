@@ -122,7 +122,7 @@ export default function TopRatedHotels() {
             {ITEMS.map((hotel, idx) => (
               <div
                 key={idx}
-                className="shrink-0 w-[300px] md:w-[360px] snap-start bg-white rounded-2xl overflow-hidden"
+                className="shrink-0 w-full lg:w-[calc((100%-80px)/3)] snap-start bg-white rounded-2xl overflow-hidden"
               >
                 <div className="relative h-64 md:h-[350px] w-full">
                   <Image
