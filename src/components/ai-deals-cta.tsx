@@ -8,7 +8,7 @@ export default function AiDealsCTA() {
           <div className="absolute right-0 top-0 w-72 h-72 rounded-full bg-white/6 translate-x-1/3 -translate-y-1/3"></div>
           <div className="absolute right-20 bottom-0 w-48 h-48 rounded-full bg-white/4 translate-y-1/3"></div>
 
-          <div className="relative z-10 p-12 md:p-16 max-w-3xl">
+          <div className="relative z-10 p-8 md:p-16 max-w-3xl">
             <h2 className="text-3xl md:text-[44px] font-bold text-white leading-tight mb-4 font-poppins">
               Find The Best Travel<br />Deals Instantly With AI!
             </h2>

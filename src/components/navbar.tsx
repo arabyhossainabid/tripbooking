@@ -51,7 +51,7 @@ export default function Navbar() {
               </svg>
               Search
             </button>
-            <button className="bg-yellow-400 hover:bg-yellow-500 text-white text-sm font-bold px-8 py-2.5 rounded-full shadow-lg transition-all active:scale-95">
+            <button className="bg-yellow-400 hover:bg-yellow-500 text-white text-sm font-bold px-5 sm:px-8 py-2.5 rounded-full shadow-lg transition-all active:scale-95">
               Sign In
             </button>
             <button className="md:hidden text-white">

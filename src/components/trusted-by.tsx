@@ -13,7 +13,7 @@ export default function TrustedBy() {
   ];
 
   return (
-    <section className="bg-[#E8ECF9] pt-48 pb-20 select-none border-t border-gray-100">
+    <section className="bg-[#E8ECF9] pt-12 md:pt-80 lg:pt-48 pb-20 select-none border-t border-gray-100">
       <div className="max-w-[1280px] mx-auto px-6">
         <div className="flex flex-col lg:flex-row items-start lg:items-center gap-16">
           <div className="lg:w-[320px] shrink-0">

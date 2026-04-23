@@ -121,7 +121,7 @@ export default function FeaturedTours() {
             {ITEMS.map((tour, idx) => (
               <div
                 key={idx}
-                className="shrink-0 w-[300px] md:w-[400px] snap-start bg-white rounded-2xl overflow-hidden"
+                className="shrink-0 w-[280px] sm:w-[300px] md:w-[400px] snap-start bg-white rounded-2xl overflow-hidden"
               >
                   <div className="relative h-64 md:h-[380px] w-full">
                   <Image
