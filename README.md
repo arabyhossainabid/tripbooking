@@ -2,7 +2,7 @@
 
 Welcome to **TripBooking.ai**, a premium, high-performance landing page designed for a modern travel and tourism experience. This project focuses on high-fidelity UI/UX, modular component architecture, and a seamless user experience.
 
-## 🚀 Getting Started
+## Getting Started
 
 To get the project running locally on your machine, follow these simple steps:
 
@@ -30,7 +30,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ---
 
-## ✨ Key Features Implemented
+## Key Features Implemented
 
 This project isn't just a static template; I've focused on making it feel "alive" with interactive elements and professional styling.
 
@@ -57,7 +57,7 @@ This project isn't just a static template; I've focused on making it feel "alive
 
 ---
 
-## 📝 Assumptions & Decisions
+## Assumptions & Decisions
 
 During development, I made a few logical decisions to ensure the best possible output:
 - **Static Demonstration**: Since this is a frontend-focused task, all data (Tours, Hotels, Locations) is currently stored in clean data constants for easy replacement with an API in the future.
@@ -66,4 +66,4 @@ During development, I made a few logical decisions to ensure the best possible o
 
 ---
 
-Built with ❤️ by [Araby Hossain Abid](https://github.com/arabyhossainabid)
+Built with by [Araby Hossain Abid](https://github.com/arabyhossainabid)
